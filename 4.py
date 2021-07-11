@@ -16,5 +16,3 @@ def my_func(x, y):
     except ValueError:
         return 'Программа работает только с числами.'
 print(my_func(input('введите Х - '), input('введите У - ')))
-
-
